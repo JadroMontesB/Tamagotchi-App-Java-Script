@@ -1,0 +1,16 @@
+/*Fonts Part*/
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Lato:ital,wght@1,300&family=Oswald:wght@200&display=swap');
+
+body
+{ 
+  font-family: 'Lato', sans-serif;
+  background-color: aqua;
+  color:coral;
+}
+
+p{
+
+    font-size: 15px;
+    text-shadow: 1px 1px white;
+}
+
